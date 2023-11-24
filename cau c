@@ -1,0 +1,17 @@
+git init: Tạo một kho lưu trữ Git mới.
+git add: Thêm các tệp đã thay đổi vào vùng staging.
+git commit: Lưu các thay đổi đã được thêm vào vùng staging.
+git push: Đẩy các thay đổi lên kho lưu trữ từ xa.
+git pull: Kéo các thay đổi từ kho lưu trữ từ xa xuống.
+git branch: Tạo một nhánh mới.
+git checkout: Chuyển sang một nhánh khác.
+git merge: Gộp các thay đổi từ một nhánh khác vào nhánh hiện tại.
+git log: Xem lịch sử các thay đổi.
+git diff: Xem các thay đổi đối với một tệp hoặc một nhóm tệp.
+Ngoài các lệnh cơ bản trên, Git còn cung cấp nhiều lệnh khác để thực hiện các thao tác nâng cao, chẳng hạn như:
+
+git stash: Lưu các thay đổi tạm thời.
+git reset: Hoàn tác các thay đổi.
+git revert: Quay lại một phiên bản trước của các thay đổi.
+git tag: Đánh dấu một phiên bản cụ thể của các thay đổi.
+git remote: Thêm hoặc quản lý các kho lưu trữ từ xa.
