@@ -1,0 +1,37 @@
+Tab "Code":
+Chức năng: Tab "Code" là nơi hiển thị mã nguồn của dự án.
+Cách tương tác:
+Bạn có thể xem mã nguồn của dự án trong tab này.
+Có các nút để sao chép URL của repository hoặc tải mã nguồn xuống máy tính của bạn.
+Nếu bạn có quyền, bạn cũng có thể tạo một nhánh mới hoặc thực hiện các thao tác khác liên quan đến mã nguồn.
+
+Tab "Issues":
+Chức năng: Tab "Issues" là nơi theo dõi, báo cáo và quản lý vấn đề (issues) của dự án.
+Cách tương tác:
+Bạn có thể xem danh sách các vấn đề mở và đã đóng.
+Tạo vấn đề mới để báo cáo lỗi hoặc đề xuất tính năng.
+Gán vấn đề cho người thực hiện, thảo luận và theo dõi tiến độ giải quyết vấn đề.
+
+Tab "Pull Requests":
+Chức năng: Tab "Pull Requests" quản lý các yêu cầu đối với mã nguồn của dự án.
+Cách tương tác:
+Xem danh sách các yêu cầu đang mở và đã đóng.
+Tạo yêu cầu mới để đề xuất sự thay đổi vào mã nguồn.
+Thảo luận, theo dõi và xem thay đổi cụ thể trong mỗi yêu cầu.
+
+Tab "Actions":
+Chức năng: Tab "Actions" hiển thị thông tin về các quy trình tự động được thiết lập để kiểm thử, triển khai và thực hiện các nhiệm vụ khác.
+Cách tương tác:
+Xem danh sách các hoạt động tự động gần đây.
+Kiểm tra kết quả, thông báo và tiến trình của các quy trình tự động.
+
+Tab "Projects":
+Chức năng: Tab "Projects" là nơi để tạo và quản lý các dự án hoặc bảng công việc.
+Cách tương tác:
+Tạo dự án hoặc bảng công việc để theo dõi tiến trình công việc.
+Thêm thẻ, di chuyển thẻ, và cập nhật tiến trình công việc.
+
+Tab "Wiki":
+Chức năng: Tab "Wiki" chứa tài liệu dự án hoặc trang wiki liên quan.
+Cách tương tác:
+Xem tài liệu của dự án, hướng dẫn, hoặc thông tin khác có sẵn trong trang wiki.
